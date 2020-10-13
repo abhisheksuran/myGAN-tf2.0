@@ -1,5 +1,5 @@
 # myGAN-tf2.0
-GAN Aldorithms Using TensorFlow 2.0
+GAN Algorithms Using TensorFlow 2.0
 
 1. DCGAN 
 2. WGAN
